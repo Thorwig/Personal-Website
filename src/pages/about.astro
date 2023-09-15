@@ -26,56 +26,81 @@ import Hero from "../components/Hero.astro";
       <section>
         <h2 class="section-title">Experiences</h2>
         <div class="content">
-          <p>
+          <div>
+          <p style="text-align: center">
             <b>February 2023 - July 2023</b>
           </p>
-          <p>Founder & CEO, Delta Cognition</p>
+          <p style="text-align: center">Founder & CEO, Delta Cognition</p>
           <p>
-            –	Started my company Delta Cognition which commercializes AI solutions tailored for professionals.<br>
-			–	Designed Machine Learning/Deep Learning algorithms for my first prototypes.<br>
-			–	Managed all aspects of the business, including operations, marketing, sales, and accounting.<br>
-			–	Supported by a public national structure for Student Entrepreneurs (SNEE).<br>
-
+            – Started my company Delta Cognition which commercializes AI
+            solutions tailored for professionals.<br />
+             – Designed Machine Learning/Deep Learning algorithms for my first
+            prototypes.<br />
+             – Managed all aspects of the business, including operations,
+            marketing, sales, and accounting.<br />
+             – Supported by a public national structure for Student
+            Entrepreneurs (SNEE).<br />
           </p>
-          <p>
+        </div>
+        <div>
+          <p style="text-align: center">
             <b>September 2022 - January 2023</b>
           </p>
-          <p>ML Engineer Intern, Intelcia IT Solutions</p>
-          <p>
-			–	Created a Deep Learning-based Speaker Recognition application using Python, Flask, and MySQL. <br>
-			–	Designed a Resume Parsing tool for the HR department utilizing Natural Language Processing in Python.<br>
-			–	Revamped an existing dashboard application into a customizable dashboard constructor using Python and ReactJS.<br>
-			
+          <p style="text-align: center">
+            ML Engineer Intern, Intelcia IT Solutions
           </p>
-		  <p>
+          <p>
+            – Created a Deep Learning-based Speaker Recognition application
+            using Python, Flask, and MySQL. <br />
+             – Designed a Resume Parsing tool for the HR department utilizing
+            Natural Language Processing in Python.<br />
+             – Revamped an existing dashboard application into a customizable
+            dashboard constructor using Python and ReactJS.<br />
+          </p>
+        </div>
+        <div>
+          <p style="text-align: center">
             <b>February 2022 - April 2022</b>
           </p>
-          <p>IT System and Security Intern, Charlie Solutions</p>
-          <p>
-			–	Established a CI/CD structure and automated its processes using Jenkins.<br>
-			–	Conducted penetration testing on the company's web application and implemented various security measures.<br>
-			–	Produced documentation for the company's IT architecture and infrastructure.<br>
-			
+          <p style="text-align: center">
+            IT System and Security Intern, Charlie Solutions
           </p>
-		  <p>
+          <p>
+            – Established a CI/CD structure and automated its processes using
+            Jenkins.<br />
+             – Conducted penetration testing on the company's web application
+            and implemented various security measures.<br />
+             – Produced documentation for the company's IT architecture and
+            infrastructure.<br />
+          </p>
+        </div>
+        <div>
+          <p style="text-align: center">
             <b>April 2021- July 2021</b>
           </p>
-          <p>Web application Developer Intern, Multi-p</p>
-          <p>
-			–	Developed a full-stack web application utilizing front-end programming languages and PHP.<br>
-			–	Transferred Excel databases to MySQL and reorganized their structure.<br>
-			–	Created a mailing platform in the application to market the company's services.<br>
-			
+          <p style="text-align: center">
+            Web application Developer Intern, Multi-p
           </p>
+          <p>
+            – Developed a full-stack web application utilizing front-end
+            programming languages and PHP.<br />
+             – Transferred Excel databases to MySQL and reorganized their
+            structure.<br />
+             – Created a mailing platform in the application to market the
+            company's services.<br />
+          </p>
+        </div>
         </div>
       </section>
       <section>
         <h2 class="section-title">Education</h2>
         <div class="content">
-          <p>
+          <p style="text-align: center">
             <b>September 2019 - Expected on July 2024</b>
           </p>
-          <p>CESI Engineering School, Bordeaux, France</p>
+          <p style="text-align: center">
+            CESI Engineering School, Bordeaux, France
+          </p>
           <p>
             Methodology based on solving problems and teamworking the same way
             an engineer works in his company.
@@ -126,6 +151,10 @@ import Hero from "../components/Hero.astro";
     display: flex;
     flex-direction: column;
     gap: 3.5rem;
+  }
+
+  div{
+    padding-bottom: 5%;
   }
 
   img {
