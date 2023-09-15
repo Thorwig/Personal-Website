@@ -1,7 +1,7 @@
 ---
 title: VEat
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-4.jpg
+publishDate: 2023-01-06 00:00:00
+img: /assets/veat.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   UBER EATS 2.0

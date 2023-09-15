@@ -1,7 +1,7 @@
 ---
 title: Speaker Recognition
-publishDate: 2022-10-27 00:00:00
-img: /assets/stock-3.jpg
+publishDate: 2023-02-01 00:00:00
+img: /assets/speaker-rec.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   Recognition of an individual through his voice
