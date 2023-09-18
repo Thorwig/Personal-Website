@@ -9,5 +9,5 @@ tags:
   - Machine Learning
   - Python
 ---
-<a href="https://github.com/Thorwig/Employers_prediction_AI">See this project in github</a>
+<a href="https://github.com/Thorwig/Attrition_prediction_AI">See this project in github</a>
 <!-- DONT FORGET TO USE FORMATTING THIS IS MARKDOWN ## Level-two heading -->
