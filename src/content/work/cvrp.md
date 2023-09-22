@@ -10,5 +10,5 @@ tags:
   - Python
   - Mathematics (Graph Theory)
 ---
-<a href="https://github.com/Thorwig/CVRP-with-Genetic-Algorithm">See this project in github</a>
+<a href="https://github.com/Thorwig/CVRP-with-Genetic-Algorithm/blob/main/CVRP.ipynb">See this project in github</a>
 <!-- DONT FORGET TO USE FORMATTING THIS IS MARKDOWN ## Level-two heading -->
