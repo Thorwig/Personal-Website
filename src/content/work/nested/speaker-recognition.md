@@ -1,15 +1,14 @@
 ---
-title: Speaker Recognition
-publishDate: 2023-02-01 00:00:00
-img: /assets/speaker-rec.jpg
+title: Resume Parser
+publishDate: 2023-01-01 00:00:00
+img: /assets/resume-parser.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
-  Recognition of an individual through his voice
+  Extraction of information from a resume for parsing.
 tags:
-  - Machine Learning
   - Python
-  - Front-end
-  - Back-end (Flask)
+  - SQL
+  - Artificial Intelligence
 ---
-<a href="https://github.com/Thorwig/Speaker-Recognition-AI">See this project in github</a>
+<a href="https://github.com/Thorwig/Resume-Parser">See this project in github</a>
 <!-- DONT FORGET TO USE FORMATTING THIS IS MARKDOWN ## Level-two heading -->
