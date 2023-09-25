@@ -2,7 +2,7 @@
 title: Discord Bot
 publishDate: 2020-01-02 00:00:00
 img: /assets/discord-bot.jpeg
-img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+img_alt: Modified discord logo
 description: |
   Set up of a discord bot in a friend's servers
 tags:

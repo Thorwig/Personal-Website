@@ -4,7 +4,7 @@ publishDate: 2023-01-06 00:00:00
 img: /assets/veat.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  UBER EATS 2.0
+  Delivery app for both pc and mobile
 tags:
   - Front-end (ReactJS)
   - Back-end (NodeJS)
